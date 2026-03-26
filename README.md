@@ -21,9 +21,6 @@ The common purpose of TE-13 is to **reduce energy use and operating cost**, **in
 - **FR1** - MFH pilot with **iDM heat pumps** and suitable MFH setup where zone-level monitoring/control is available or can be added, enabling multi-zone coordination and optimiser-driven scheduling
 - **FR5** - Building with **heat pump(s)**, **DHW**, **phase-change-material (PCM) storage**, **electric energy storage** and **PV panels**
 
-**Architecture Diagram:**
-![Model](methodology.png)
-
 TE-13 is structured around supervisory predictive control of multi-asset building energy systems. Its architecture combines **measurements**, **forecasts**, **reduced-order models**, **optimisation logic** and **dispatch mechanisms**.
 
 **iDM architecture flow:**
